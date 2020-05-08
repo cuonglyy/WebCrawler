@@ -1,5 +1,6 @@
 # WebCrawler
-##Welcome!
+Welcome!
+--------
 **Here's how to run our program**
 
 1. Install Python3
